@@ -1,3 +1,7 @@
 {
-  "name": "yarn-err"
+  "name": "yarn-merge-error",
+  "devDependencies": {
+    "@commitlint/cli": "^12.0.0",
+    "@commitlint/config-conventional": "^12.0.0"
+  }
 }
